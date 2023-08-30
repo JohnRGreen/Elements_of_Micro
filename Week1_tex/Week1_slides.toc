@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Chapter 1: Ten Principles}{4}{0}{1}
+\beamer@sectionintoc {2}{Lists in Beamer}{6}{0}{2}
+\beamer@sectionintoc {3}{Chapter 2: Thinking like an economist}{9}{0}{3}
