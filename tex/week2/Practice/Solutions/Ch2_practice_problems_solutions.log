@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  3 SEP 2023 17:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  5 SEP 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/week1/practice/solution/week1_practice_solution"
-(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/week1/practice/solution/week1_practice_solution.tex
+**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/week2/Practice/Solutions/Ch2_practice_problems_solutions"
+(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/week2/Practice/Solutions/Ch2_practice_problems_solutions.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -243,8 +243,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box53
-) (./week1_practice_solution.aux)
-\openout1 = `week1_practice_solution.aux'.
+) (./Ch2_practice_problems_solutions.aux)
+\openout1 = `Ch2_practice_problems_solutions.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -265,9 +265,9 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 Package hyperref Info: Link coloring OFF on input line 15.
- (./week1_practice_solution.out) (./week1_practice_solution.out)
+ (./Ch2_practice_problems_solutions.out) (./Ch2_practice_problems_solutions.out)
 \@outlinefile=\write3
-\openout3 = `week1_practice_solution.out'.
+\openout3 = `Ch2_practice_problems_solutions.out'.
 
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -296,14 +296,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
-* v-part:(T,H,B)=(72.26999pt, 632.3625pt, 90.3375pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=433.62001pt
-* \textheight=632.3625pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -322,62 +322,48 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<PPF.png, id=5, 296.60812pt x 221.82875pt>
-File: PPF.png Graphic file (type png)
-<use PPF.png>
-Package pdftex.def Info: PPF.png  used on input line 61.
-(pdftex.def)             Requested size: 325.215pt x 243.23384pt.
-[1
-
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 82.
+(./table1.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2 <./PPF.png>]
-<PPFshape.png, id=33, 309.65688pt x 217.31187pt>
-File: PPFshape.png Graphic file (type png)
-<use PPFshape.png>
-Package pdftex.def Info: PPFshape.png  used on input line 104.
-(pdftex.def)             Requested size: 325.215pt x 228.2505pt.
- [3 <./PPFshape.png>]
-<PPFshift.png, id=45, 296.10625pt x 222.8325pt>
-File: PPFshift.png Graphic file (type png)
-<use PPFshift.png>
-Package pdftex.def Info: PPFshift.png  used on input line 115.
-(pdftex.def)             Requested size: 325.215pt x 244.74588pt.
- [4 <./PPFshift.png>]
-<CPF.png, id=58, 295.60437pt x 234.37563pt>
-File: CPF.png Graphic file (type png)
-<use CPF.png>
-Package pdftex.def Info: CPF.png  used on input line 137.
-(pdftex.def)             Requested size: 325.215pt x 257.86044pt.
- [5 <./CPF.png>]
-<CFD.png, id=66, 386.44376pt x 231.86626pt>
-File: CFD.png Graphic file (type png)
-<use CFD.png>
-Package pdftex.def Info: CFD.png  used on input line 191.
-(pdftex.def)             Requested size: 433.62001pt x 260.17313pt.
- [6] [7 <./CFD.png>] (./week1_practice_solution.aux)
-Package rerunfilecheck Info: File `week1_practice_solution.out' has not changed.
+)) (./table2.tex)
+<stuPPF.png, id=6, 307.64937pt x 247.42438pt>
+File: stuPPF.png Graphic file (type png)
+<use stuPPF.png>
+Package pdftex.def Info: stuPPF.png  used on input line 62.
+(pdftex.def)             Requested size: 281.85587pt x 226.69688pt.
+<sandiePPF.png, id=7, 288.07625pt x 237.38687pt>
+File: sandiePPF.png Graphic file (type png)
+<use sandiePPF.png>
+Package pdftex.def Info: sandiePPF.png  used on input line 69.
+(pdftex.def)             Requested size: 281.85587pt x 232.26808pt.
+ [1
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 <./stuPPF.png> <./sandiePPF.png>] (./table3.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [3] (./table4.tex) (./table5.tex) [4] [5] [6] (./Ch2_practice_problems_solutions.aux)
+Package rerunfilecheck Info: File `Ch2_practice_problems_solutions.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9911 strings out of 476024
- 153177 string characters out of 5794016
- 1861382 words of memory out of 5000000
- 30212 multiletter control sequences out of 15000+600000
- 520826 words of font info for 65 fonts, out of 8000000 for 9000
+ 9918 strings out of 476024
+ 153369 string characters out of 5794016
+ 1863382 words of memory out of 5000000
+ 30194 multiletter control sequences out of 15000+600000
+ 519434 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,765b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on week1_practice_solution.pdf (7 pages, 272976 bytes).
+ 75i,8n,76p,496b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Ch2_practice_problems_solutions.pdf (6 pages, 129551 bytes).
 PDF statistics:
- 132 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 43 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
