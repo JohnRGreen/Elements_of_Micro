@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  5 SEP 2023 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  8 SEP 2023 13:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -347,23 +347,27 @@ Package pdftex.def Info: sandiePPF.png  used on input line 69.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [3] (./table4.tex) (./table5.tex) [4] [5] [6] (./Ch3_practice_problems_solutions.aux)
+) [3] (./table4.tex) (./table5.tex) [4] (./table6.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [5] [6] [7] (./Ch3_practice_problems_solutions.aux)
 Package rerunfilecheck Info: File `Ch3_practice_problems_solutions.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9918 strings out of 476024
- 153363 string characters out of 5794016
+ 9929 strings out of 476024
+ 153468 string characters out of 5794016
  1863382 words of memory out of 5000000
- 30194 multiletter control sequences out of 15000+600000
+ 30196 multiletter control sequences out of 15000+600000
  519434 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,494b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,700b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Ch3_practice_problems_solutions.pdf (6 pages, 129551 bytes).
+Output written on Ch3_practice_problems_solutions.pdf (7 pages, 134761 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 43 named destinations out of 1000 (max. 500000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
