@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  5 SEP 2023 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  15 SEP 2023 09:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -537,7 +537,12 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
-) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty)) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeCambridgeUS.sty (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty) (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemebeaver.sty))
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 11.
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 \l__pdf_internal_box=\box76
@@ -712,81 +717,93 @@ Package pdftex.def Info: demand_curve.png  used on input line 67.
 
 ] [12
 
-] [13
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 157.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 157.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 157.
+ (c:/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [13
 
 ] [14
 
 ] [15
 
 ]
-<market_for_gas.png, id=433, 289.08pt x 237.88875pt>
+<market_for_gas.png, id=435, 289.08pt x 237.88875pt>
 File: market_for_gas.png Graphic file (type png)
 <use market_for_gas.png>
-Package pdftex.def Info: market_for_gas.png  used on input line 184.
+Package pdftex.def Info: market_for_gas.png  used on input line 189.
 (pdftex.def)             Requested size: 216.67201pt x 178.30357pt.
  [16
 
  <./market_for_gas.png>]
-<tax_cut.png, id=462, 285.065pt x 239.39438pt>
+<tax_cut.png, id=464, 285.065pt x 239.39438pt>
 File: tax_cut.png Graphic file (type png)
 <use tax_cut.png>
-Package pdftex.def Info: tax_cut.png  used on input line 190.
+Package pdftex.def Info: tax_cut.png  used on input line 195.
 (pdftex.def)             Requested size: 216.67201pt x 181.95622pt.
  [17
 
  <./tax_cut.png>] [18
 
 ]
-<increase_efficiency.png, id=516, 292.59312pt x 239.89626pt>
+<increase_efficiency.png, id=518, 292.59312pt x 239.89626pt>
 File: increase_efficiency.png Graphic file (type png)
 <use increase_efficiency.png>
-Package pdftex.def Info: increase_efficiency.png  used on input line 208.
+Package pdftex.def Info: increase_efficiency.png  used on input line 213.
 (pdftex.def)             Requested size: 216.67201pt x 177.65588pt.
  [19
 
  <./increase_efficiency.png>] [20
 
 ]
-<both_changes_1a.png, id=572, 295.60437pt x 241.40187pt>
+<both_changes_1a.png, id=574, 295.60437pt x 241.40187pt>
 File: both_changes_1a.png Graphic file (type png)
 <use both_changes_1a.png>
-Package pdftex.def Info: both_changes_1a.png  used on input line 226.
+Package pdftex.def Info: both_changes_1a.png  used on input line 231.
 (pdftex.def)             Requested size: 216.67201pt x 176.94754pt.
  [21
 
  <./both_changes_1a.png>]
-<both_changes_1b.png, id=600, 293.59688pt x 241.90375pt>
+<both_changes_1b.png, id=602, 293.59688pt x 241.90375pt>
 File: both_changes_1b.png Graphic file (type png)
 <use both_changes_1b.png>
-Package pdftex.def Info: both_changes_1b.png  used on input line 232.
+Package pdftex.def Info: both_changes_1b.png  used on input line 237.
 (pdftex.def)             Requested size: 216.67201pt x 178.52242pt.
  [22
 
  <./both_changes_1b.png>] [23
 
 ]
-<decrease_efficiency.png, id=654, 297.11pt x 244.915pt>
+<decrease_efficiency.png, id=656, 297.11pt x 244.915pt>
 File: decrease_efficiency.png Graphic file (type png)
 <use decrease_efficiency.png>
-Package pdftex.def Info: decrease_efficiency.png  used on input line 255.
+Package pdftex.def Info: decrease_efficiency.png  used on input line 260.
 (pdftex.def)             Requested size: 216.67201pt x 178.61453pt.
  [24
 
  <./decrease_efficiency.png>] [25
 
 ]
-<both_changes_2a.png, id=710, 290.08376pt x 241.90375pt>
+<both_changes_2a.png, id=712, 290.08376pt x 241.90375pt>
 File: both_changes_2a.png Graphic file (type png)
 <use both_changes_2a.png>
-Package pdftex.def Info: both_changes_2a.png  used on input line 273.
+Package pdftex.def Info: both_changes_2a.png  used on input line 278.
 (pdftex.def)             Requested size: 216.67201pt x 180.68544pt.
  [26
 
  <./both_changes_2a.png>]
-<both_changes_2b.png, id=738, 298.11375pt x 241.40187pt>
+<both_changes_2b.png, id=740, 298.11375pt x 241.40187pt>
 File: both_changes_2b.png Graphic file (type png)
 <use both_changes_2b.png>
-Package pdftex.def Info: both_changes_2b.png  used on input line 279.
+Package pdftex.def Info: both_changes_2b.png  used on input line 284.
 (pdftex.def)             Requested size: 216.67201pt x 175.45204pt.
  [27
 
@@ -795,10 +812,10 @@ Package pdftex.def Info: both_changes_2b.png  used on input line 279.
 ] [29
 
 ]
-<orioles.png, id=819, 289.58188pt x 240.9pt>
+<orioles.png, id=821, 289.58188pt x 240.9pt>
 File: orioles.png Graphic file (type png)
 <use orioles.png>
-Package pdftex.def Info: orioles.png  used on input line 312.
+Package pdftex.def Info: orioles.png  used on input line 317.
 (pdftex.def)             Requested size: 216.67201pt x 180.24814pt.
  [30
 
@@ -821,18 +838,18 @@ Package rerunfilecheck Info: File `Ch4_slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21935 strings out of 476024
- 429061 string characters out of 5794016
- 1863382 words of memory out of 5000000
- 41877 multiletter control sequences out of 15000+600000
- 514455 words of font info for 39 fonts, out of 8000000 for 9000
+ 22013 strings out of 476024
+ 430852 string characters out of 5794016
+ 1864382 words of memory out of 5000000
+ 41934 multiletter control sequences out of 15000+600000
+ 519393 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,480b,642s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on Ch4_slides.pdf (32 pages, 492084 bytes).
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on Ch4_slides.pdf (32 pages, 500969 bytes).
 PDF statistics:
- 933 PDF objects out of 1000 (max. 8388607)
- 848 compressed objects within 9 object streams
+ 941 PDF objects out of 1000 (max. 8388607)
+ 853 compressed objects within 9 object streams
  65 named destinations out of 1000 (max. 500000)
  135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
