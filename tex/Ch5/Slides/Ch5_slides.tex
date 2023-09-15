@@ -1,4 +1,3 @@
-
 % Inbuilt themes in beamer
 \documentclass[aspectratio=169]{beamer}
 \usepackage{graphicx}
@@ -7,8 +6,7 @@
 
 % Title page details: 
 \title{Chapter 5: Elasticity and applications} 
-\author{John Green //
-    Discussion section 4}
+\author{Discussion section 4}
 \date{September 2023}
 
 \begin{document}
@@ -20,310 +18,327 @@
 
 % Outline frame
 \begin{frame}{Outline}
-    Elasticity captures an extremely intuitive concept: how do you change your behavior in response to changing prices?
+    Elasticity captures an extremely intuitive concept: 
+    
+    \begin{center}
+        How do you change your behavior in response to changing prices?
+    \end{center}
+
+    \medskip
+
+    Let's refresh:
+
+    \begin{center}
+        When does a consumer buy more of a good?
+    \end{center}
+
 \end{frame}
 
-\begin{frame}{Features of a market}
+\begin{frame}{Elasticity}
     \begin{enumerate}
-        \item What is a market?
-        \item What are some examples of markets?
-        \item What does it mean for a market to be \textit{competitive}?
-        \item Are all markets competitive?
-        \item What makes a market perfectly competitive?
-    \end{enumerate}e
-\end{frame}e
-e
-\begin{frame}{Perfectly competitive markets}e
-    In a perfectly competitive market:
+        \item Its price is lower (law of demand)
+        \item Incomes are higher (for normal goods)
+        \item Price of substitutes is higher
+        \item Price of complements is lower
+    \end{enumerate}
+
+    \medskip
+
+    The \textit{price elasticity of demand} will tell us just how big the change in demand is for these cases.
+\end{frame}
+
+\begin{frame}{Elasticity of demand}
+    A good may have \textit{elastic} or \textit{inelastic} demand.
+
+    \medskip
+
+    What are some examples of inelastic goods? 
+    
+    \medskip
+
+    Elastic goods?
+
+    \medskip
+
+    \medskip
+
+    Let's take a specific example: the Ford F-150. What factors will influence this product's elasticity of demand?
+\end{frame}
+
+\begin{frame}{Elasticity of demand}
+    What factors will influence a good's elasticity?
+
     \begin{enumerate}
-        \item All goods are identical
-        \item No buyer or seller has influence over the market price
-        \item All actors are \textit{price-takers}
+        \item \textbf{Availability of close substitutes}: other kinds of trucks, cars, bikes, etc.
+        \item \textbf{Necessities vs. luxuries}: do you need it for work? For fun?
+        \item \textbf{Market definition}: Are we considering the market for Ford F150s? For pickup trucks? For motor vehicles?)
+        \item \textbf{Time horizon}: In the short run, maybe we need a pickup; in the long-run, maybe we retool our lives to accomadate a different car or no car at all
     \end{enumerate}
 \end{frame}
 
-% How people make decisions
-\begin{frame}{Demand}
-    What is the \textit{quantity demanded} of a good?
+\begin{frame}{Elasticity of demand}
+    We have a simple equation to find the price elasticity of demand:
+
+    $$
+    \text{Price elasticity of demand} = \dfrac{\text{\% change in quantity demanded}}{\text{\% change in price}}
+    $$
+
+    Will this value be greater or less than 0? Why?
 
     \medskip
 
-    What is the \textit{law of demand}?
-
-    \medskip
-
-    What is the difference between a demand schedule and a demand curve?
-
-\end{frame} 
-
-\begin{frame}
-    \frametitle{Demand schedule and curve}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{demand_curve.png}
+    First, let's refresh the basics. If good A used to cost \$10, and now it costs \$14, what is the percentage change?
 \end{frame}
 
-\begin{frame}{Market demand}
-    The previous example showed the demand curve for one individual. The \textit{market demand} is the summation of demand curves across all individuals in a market.
+\begin{frame}{Elasticity of demand}
+    If good A used to cost \$10, and now it costs \$14, what is the percentage change?
 
-    \medskip
+    $$
+    \dfrac{\text{Change in price}}{\text{Original price}} * 100\% = \dfrac{\$14 - \$10}{\$10} * 100\% = 40\%
+    $$
 
-    Demand curves are not fixed in time; many things might cause a demand curve to increase or decrease. 
-
-    \medskip
-
-    If demand increases when incomes increase, a good is a \textit{normal good}. If demand falls when incomes decrease, a good is an \textit{inferior good}. What are some examples of both?
+    In our elasticity formula, we do not need to worry about multiplying by 100\%.
 \end{frame}
 
-\begin{frame}{Complements and substitutes}
-    If two goods go well together, they are \textit{complements}.
-
-    \medskip
-
-    If two goods fulfill the same purpose, or class, they are \textit{substitutes}.
-
-    \medskip
-
-    What are some examples of each?
-
-    \medskip
-
-    If goods A and B are complements, what will happen to demand for good B if the price of good A falls? What if they are substitutes?
-\end{frame}
-
-\begin{frame}{Example}
-    Last year Maryland passed a gas tax holiday, temporarily lowering the price of gasoline. Some critics said that lowering the tax would make people want to buy more gasoline and might end up actually \textit{increasing} the price.
-
-    \begin{enumerate}
-        \item Will the tax decrease cause the demand curve for gasoline to shift?
-        \item What are some complements and what are some substitutes for gasoline?
-        \item What are some factors that might cause the demand curve for gasoline to shift?
-    \end{enumerate}
-
-    Does it seem plausible that the tax increase could cause the price of gasoline to go up?
-
-  \end{frame}
-
-  \begin{frame}{Supply}
-    Now we'll talk about the other side of the market: \textit{supply}.
-
-    \medskip
-
-    There are lots of similarities between the two:
+\begin{frame}{Calculating elasticity}
+    Consider two points on a demand curve:
     \begin{itemize}
-        \item \textit{Quantity supplied} is amount sellers are willing and able to sell
-        \item \textit{Law of suipply} governs the relationship between price and quantity supplied
-        \item Supply schedules and supply curves
-        \item Market supply
+        \item Point A: price is $P_A=12$ and quantity demanded is $Q_A=60$
+        \item Point B: $P_B=8$ and $Q_B=80$
     \end{itemize}
+    Take our formula and calculate the price elasticity of demand:
+    \begin{enumerate}
+        \item Moving from point A to point B
+        \item Moving from point B to point A
+    \end{enumerate}
 \end{frame}
 
-\begin{frame}{Shifts in supply curve}
-   Just as with demand, we need to distinguish between movements along a supply curve and a shift in the curve itself
-
-   \medskip
-
-   What are some variables that could shift the supply curve?
-\end{frame}
-
-\begin{frame}{Shifts in supply curve}
-    Just as with demand, we need to distinguish between movements along a supply curve and a shift in the curve itself
-
-   \medskip
-   
-   What are some variables that could shift the supply curve?
+\begin{frame}{Calculating elasticity}
     
     \begin{enumerate}
-        \item Technology
-        \item Expectations
-        \item Number of sellers
+    \item Moving from point A to point B: $P_e = \dfrac{1}{\frac{1}{3}} = 3$
+    \item Moving from point B to point A: $P_e = \dfrac{\frac{1}{2}}{\frac{1}{2}} = 1$
+    \end{enumerate}
+
+    Two different values! What gives?
+
+    \medskip
+
+    You have \$100, and lose 10\%. Tomorrow, you gain back 10\%. How much do you have?
+
+    \medskip
+
+    What can we do about this?
+
+\end{frame}
+
+\begin{frame}{Midpoint technique}
+Instead of taking the \% change w.r.t. the original price, use an average of the two prices as your base,  use an average of the two:
+
+$$
+\text{Price elasticity of demand} = \dfrac{(Q_2 - Q_1)/[(Q_2 - Q_1)/2]}{(P_2 - P_1)/[(P_2 - P_1)/2]}
+$$
+
+This is the formula we will use!
+
+\end{frame}
+
+\begin{frame}{Calculating elasticity}
+    Let's return to our example:
+    \begin{itemize}
+        \item $P_A=12$ and $Q_A=60$
+        \item $P_B=8$ and $Q_B=80$
+    \end{itemize}
+    
+    \medskip
+
+    \begin{enumerate}
+        \item What is the new base price?
+        \item What is the new base quantity?
+        \item What is the \% change for quantity?
+        \item What is the \% change for price?
+    \end{enumerate}
+
+    Then put it all together to get our new elasticity estimate.
+\end{frame}
+
+\begin{frame}{Calculating elasticity}
+   Whether we consider moving from A to B or from B to A, we get $P_e = 1 \frac{2}{3}$.
+
+   \medskip
+
+   Demand might be:
+   \begin{itemize}
+    \item Elastic
+    \item Inelastic
+    \item Unit elastic
+    \item Perfectly elastic
+    \item Perfectly inelastic
+   \end{itemize}
+
+   Group activity: draw a demand curve for each of these cases
+\end{frame}
+
+\begin{frame}{Types of elasticity}
+    Demand might be:
+    \begin{itemize}
+     \item Elastic: price change of $X\%$ $\to$ demand change greater than $X\%$ 
+     \item Inelastic: price change of $X\%$ $\to$ demand change less than $X\%$ 
+     \item Unit elastic: price change of $X\%$ $\to$ demand change of $X\%$
+     \item Perfectly elastic: price change has no impact on demand
+     \item Perfectly inelastic: small price change has enormous impact on demand
+    \end{itemize}
+ \end{frame}
+
+ \begin{frame}{Total revenue}
+    How do we know how much is spent on a good at the market equilibrium?
+
+    \medskip
+
+    Total revenue = equilibrium price $\times$ equilibrium quantity
+
+    \medskip
+
+    How does elasticity interact with revenue? Think about how revenue changes when the price doubles from $P_A$ to $P_B = 2*P_A$ when:
+    \begin{itemize}
+        \item Demand is elastic: quantity decreases by 75\%
+        \item Demand is inelastic: quantity decreases by 25\%
+        \item Demand is unit elastic
+    \end{itemize}
+
+ \end{frame}
+
+ \begin{frame}{Elasticity}
+    Say we have a linear demand curve:
+    \begin{itemize}
+        \item Quantity demanded is 0 when price is 100
+        \item Quantity demanded is 12 when price is 4
+    \end{itemize}
+    
+    \medskip
+
+    \begin{enumerate}
+        \item Calculate the formula for the demand curve (slope and intercept) and draw graphically
+        \item Is the elasticity constant? Why or why not?
+        \item Pick a few example points, and use the midpoint formula to check the elasticity when:
+            \begin{enumerate}
+                \item Price is close to 100
+                \item Price is close to 0
+                \item Price is around 50
+            \end{enumerate}
+        \item How will total revenue vary as price moves from 0 to 100?
+    \end{enumerate}
+
+ \end{frame}
+
+ \begin{frame}{Different elasticities}
+    We have focused on the \textit{price elasticity of demand}, but there are others.
+
+    \medskip
+
+    In general, we can find the \textit{X elasticity of Y} as:
+
+    $$
+    \text{X elasticity of Y} = \dfrac{\%~\Delta~\text{of Y}}{\%~\Delta~\text{of X}}
+    $$
+
+    Some important elasticities:
+    \begin{itemize}
+        \item Income elasticity of demand
+        \item Cross-price elasticity of demand
+    \end{itemize}
+ \end{frame}
+
+ \begin{frame}{Different elasticities}
+    Income elasticity of demand:
+    \begin{itemize}
+        \item Positive for normal goods, negative for inferior goods
+        \item $\text{income elasticity of demand} = \dfrac{\%~\Delta~\text{of demand}}{\%~\Delta~\text{of income}}$
+    \end{itemize}
+
+    \medskip
+
+    Cross-price elasticity of demand:
+    \begin{itemize}
+        \item Positive for substitutes, negative for complements
+        \item $\text{CP elasticity of demand} = \dfrac{\%~\Delta~\text{of demand for good 1}}{\%~\Delta~\text{of price of good 2}}$
+    \end{itemize}
+ \end{frame}
+
+ \begin{frame}{Supply elasticities}
+    Firms will react to a change in price based on their \textit{price elasticity of supply}.
+
+    \vspace{5mm}
+
+    The same ideas are in play. Firms may have supply that is:
+    \begin{itemize}
+        \item elastic
+        \item inelastic
+        \item unit elastic
+        \item perfectly elastic
+        \item perfectly inelastic
+    \end{itemize}
+
+    Let's draw a graph for each of these scenarios.
+
+    \medskip
+
+    What is the formula for finding the price elasticity of supply?
+ \end{frame}
+
+ \begin{frame}{Supply elasticities}
+    Firms may have supply that is:
+    \begin{itemize}
+        \item elastic: an X\% change in price $\to$ $<X\%$ change in supply
+        \item inelastic: an X\% change in price $\to$ $>X\%$ change in supply
+        \item unit elastic: an X\% change in price $\to$ $X\%$ change in supply
+        \item perfectly elastic: any change in price $\to$ enormous change in supply
+        \item perfectly inelastic: any change in price $\to$ no change in supply (perfectly vertical)
+    \end{itemize}
+
+    Of course our formula is:
+
+    $$
+    \text{price elasticity of supply} = \dfrac{\%~\Delta~\text{of supply}}{\%~\Delta~\text{of price}}
+    $$
+
+ \end{frame}
+
+ \begin{frame}{Elasticity examples}
+    Let's use some intuition, and choose three products for which we think:
+    \begin{enumerate}
+        \item Demand is inelastic
+        \item Demand is elastic
+        \item Supply is inelastic
+        \item Supply is elastic
     \end{enumerate}
  \end{frame}
 
- \begin{frame}{Equilibrium}
-    Economists are generally interested in the point at which the supply and demand is balanced: \textit{equilibrium}.
-    \begin{itemize}
-        \item Equilibrium price (\textit{market-clearing})
-        \item Equilibrium quantity
-    \end{itemize}
-\end{frame}
-
-\begin{frame}{Equilibrium}
-    The actions of individuals in the market will naturally bring it into equilibrium: the \textit{law of supply and demand}.
-    \begin{itemize}
-        \item If there is excess supply there is a \textit{surplus}
-        \item If there is excess demand there is a \textit{shortage}
-    \end{itemize}
-
-    Think about both situations:
-    \begin{enumerate}
-        \item What is the relationship between quantity demanded and quantity supplied?
-        \item Is the price above or below equilibrium?
-    \end{enumerate}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    Let's return to our question about gasoline, and run through some different scenarios.
-
+ \begin{frame}{Appliction}
+    Let's think about the market for hotel rooms:
+    \input{airline_market.tex}
+    Which group do you expect to be elastic? Inelastic? Why?
     \medskip
+    Calculate the elasticities.
+ \end{frame}
 
-    Draw supply and demand curves for the market of gasoline, and show the impact of the decrease in the gas tax.
-
+ \begin{frame}{Appliction}
+    \input{airline_elasticities.tex}
+    Was your intuition for the elasticities correct?
     \medskip
+    When is this market in \textit{equilibrium}?
+ \end{frame}
 
-    Does this represent a change in the demand curve or the supply curve?
-\end{frame}
+%  1. Cigarettes, coffins, shoes, lightbulbs...
+%  2. 5-star hotels, flights to Cancun, kitchen renovations
+%  3. Stadium seats, houses, beef, microchips, missiles
+%  4. Gasoline, cigarettes, 2X4s
 
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{market_for_gas.png}
-\end{frame}
+% \begin{frame}
+%     \frametitle{Demand schedule and curve}
+%     \centering
+%     \includegraphics[width = 0.5\textwidth,keepaspectratio]{demand_curve.png}
+% \end{frame}
 
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{tax_cut.png}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    The tax cut caused the supply curve to shift to the right: for any given price, sellers with supply a larger quantity at a lower price.
-
-    \medskip
-
-    Now suppose all cars experience a sudden increase in fuel efficiency: we can drive more miles with the same amount of gasoline.
-
-    \medskip
-
-    Represent this as a shift in supply or demand in our market for gasoline.
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{increase_efficiency.png}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    Increased fuel efficiency shifts our demand curve to the left; at any given price, we buy less gasoline than before, at a lower price.
-
-    \medskip
-
-    Now think about the two changes together; the gasoline tax is lowered, and fuel efficiency is increased. 
-    
-    \medskip
-
-    What is the net effect on the equilibrium quantity and price? Is it unambiguous?
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{both_changes_1a.png}
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{both_changes_1b.png}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    The supply curve shifts to the right, and the demand curve shifts to the left:
-    \begin{itemize}
-        \item The equilibrium price is unambiguously lower
-        \item The equilibrium quantity may increase or decrease; it depends on the magnitude of the two shifts!
-    \end{itemize}
-
-    Note that this falls right out of our supply and demand side analyses!
-    \begin{itemize}
-        \item In both cases, the price decreased
-        \item With the tax cut, quantity increased, but with the fuel efficiency increase, quantity decreased
-    \end{itemize}
-
-    Now suppose fuel efficiency suddenly gets \textit{worse}.
-
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{decrease_efficiency.png}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    The effect is the opposite as before: decreased fuel efficiency shifts our demand curve to the right; at any given price, we buy more gasoline than before, at a higher price.
-
-    \medskip
-
-    Now think about the two changes together; the gasoline tax is lowered, and fuel efficiency is decreased. 
-    
-    \medskip
-
-    What are the net effects on the equilibrium quantity and price?
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{both_changes_2a.png}
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for gasoline}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{both_changes_2b.png}
-\end{frame}
-
-\begin{frame}{Market for gasoline}
-    Supply and demand curves both shift to the right:
-    \begin{itemize}
-        \item The equilibrium quantity is unambiguously higher
-        \item The equilibrium price may increase or decrease; it depends on the magnitude of the two shifts!
-    \end{itemize}
-
-    Again, we can get this right from our supply and demand side analyses:
-    \begin{itemize}
-        \item In both cases, the quantity increased
-        \item With the tax cut, price decreased, but with the fuel efficiency decrease, price increased
-        \item Net effect on price is ambiguous 
-    \end{itemize}
-
-\end{frame}
-
-\begin{frame}{Market for Orioles tickets}
-    In the last few years, the Orioles have gone from one of the worst teams in MLB to one of the best.
-
-    \begin{enumerate}
-        \item Draw the supply and demand curves for Orioles tickets.
-        \item Does the supply curve look like it did in the gasoline market?
-        \item Will the team's improved record effect supply or demand, and why?
-        \item What will happen to equilibrium price and quantity?
-    \end{enumerate}
-\end{frame}
-
-\begin{frame}
-    \frametitle{Market for Orioles tickets}
-    \centering
-    \includegraphics[width = 0.5\textwidth,keepaspectratio]{orioles.png}
-\end{frame}
-
-\begin{frame}{Market for Orioles tickets}
-    \begin{itemize}
-        \item Supply curve is vertical: at least in the short run, there are a fixed number of seats at Camden Yards
-        \item A better team means more fans want to attend more games, shifting the demand curve to the right
-        \item The equilibrium quantity is the same, but the price has increased
-    \end{itemize}
-
-    Is this a realistic way to think about the market for tickets?
-\end{frame}
-
-\begin{frame}{Market for Orioles tickets}
-    Is this a realistic way to think about the ticket market?
-    \begin{itemize}
-        \item In some ways: we really do see ticket prices increasing, and the number of seats really is fixed
-        \item In reality, not all seats are the same (different markets?) and not all seats get sold (there are fixed costs and frictions)
-        \item Don't worry about any of this for now!
-    \end{itemize}
-\end{frame}
 
 \end{document}
