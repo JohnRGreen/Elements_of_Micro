@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  25 SEP 2023 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  25 SEP 2023 14:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch6/Practice/ch6_practice_problem"
-(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch6/Practice/ch6_practice_problem.tex
+**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch7/practice/ch7_practice_problem"
+(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch7/practice/ch7_practice_problem.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -243,8 +243,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box53
-) (./ch6_practice_problem.aux)
-\openout1 = `ch6_practice_problem.aux'.
+) (./ch7_practice_problem.aux)
+\openout1 = `ch7_practice_problem.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -265,9 +265,9 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 Package hyperref Info: Link coloring OFF on input line 15.
- (./ch6_practice_problem.out) (./ch6_practice_problem.out)
+ (./ch7_practice_problem.out) (./ch7_practice_problem.out)
 \@outlinefile=\write3
-\openout3 = `ch6_practice_problem.out'.
+\openout3 = `ch7_practice_problem.out'.
 
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -322,30 +322,30 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<coffee_eq.png, id=5, 245.91875pt x 218.8175pt>
-File: coffee_eq.png Graphic file (type png)
-<use coffee_eq.png>
-Package pdftex.def Info: coffee_eq.png  used on input line 36.
-(pdftex.def)             Requested size: 281.85587pt x 250.80344pt.
-[1
+<../figs/coffee1.png, id=5, 153.57375pt x 153.57375pt>
+File: ../figs/coffee1.png Graphic file (type png)
+<use ../figs/coffee1.png>
+Package pdftex.def Info: ../figs/coffee1.png  used on input line 45.
+(pdftex.def)             Requested size: 234.8775pt x 234.89206pt.
+[1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./coffee_eq.png>] [2] [3] (./ch6_practice_problem.aux)
-Package rerunfilecheck Info: File `ch6_practice_problem.out' has not changed.
+ <../figs/coffee1.png>] [2] (./ch7_practice_problem.aux)
+Package rerunfilecheck Info: File `ch7_practice_problem.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9820 strings out of 476024
- 151932 string characters out of 5794016
- 1857382 words of memory out of 5000000
- 30148 multiletter control sequences out of 15000+600000
- 514780 words of font info for 40 fonts, out of 8000000 for 9000
+ 9810 strings out of 476024
+ 151891 string characters out of 5794016
+ 1855382 words of memory out of 5000000
+ 30146 multiletter control sequences out of 15000+600000
+ 514433 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,358b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on ch6_practice_problem.pdf (3 pages, 94255 bytes).
+ 75i,6n,76p,343b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on ch7_practice_problem.pdf (2 pages, 64170 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
