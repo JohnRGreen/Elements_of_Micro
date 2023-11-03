@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  24 OCT 2023 09:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  2 NOV 2023 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch21/slides/Ch21_slides"
-(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch21/slides/Ch21_slides.tex
+**"c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch14/slides/Ch14_slides"
+(c:/Users/johng/OneDrive - Johns Hopkins/TA/Elements_of_Micro/tex/Ch14/slides/Ch14_slides.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -541,8 +541,8 @@ Package: amsthm 2020/05/29 v2.20.6
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
 \l__pdf_internal_box=\box76
-) (./Ch21_slides.aux)
-\openout1 = `Ch21_slides.aux'.
+) (./Ch14_slides.aux)
+\openout1 = `Ch14_slides.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -617,9 +617,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 12.
- (./Ch21_slides.out) (./Ch21_slides.out)
+ (./Ch14_slides.out) (./Ch14_slides.out)
 \@outlinefile=\write5
-\openout5 = `Ch21_slides.out'.
+\openout5 = `Ch14_slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
@@ -676,3 +676,113 @@ Dictionary: translator-basic-dictionary, Language: English
 Dictionary: translator-bibliography-dictionary, Language: English 
 ) (c:/texlive/2022/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
+) (c:/texlive/2022/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (c:/texlive/2022/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (c:/texlive/2022/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (./Ch14_slides.nav) [1
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] [3
+
+] [4
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 56.
+ (c:/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+]
+<../figs/MReMC.png, id=275, 327.2225pt x 219.82124pt>
+File: ../figs/MReMC.png Graphic file (type png)
+<use ../figs/MReMC.png>
+Package pdftex.def Info: ../figs/MReMC.png  used on input line 105.
+(pdftex.def)             Requested size: 216.67201pt x 145.5554pt.
+ [10
+
+ <../figs/MReMC.png>] [11
+
+] [12
+
+] [13
+
+] [14
+
+]
+<../figs/supply.png, id=410, 276.03125pt x 198.7425pt>
+File: ../figs/supply.png Graphic file (type png)
+<use ../figs/supply.png>
+Package pdftex.def Info: ../figs/supply.png  used on input line 149.
+(pdftex.def)             Requested size: 216.67201pt x 156.01016pt.
+ [15
+
+ <../figs/supply.png>]
+<../figs/profit.png, id=438, 238.8925pt x 200.75pt>
+File: ../figs/profit.png Graphic file (type png)
+<use ../figs/profit.png>
+Package pdftex.def Info: ../figs/profit.png  used on input line 154.
+(pdftex.def)             Requested size: 216.67201pt x 182.07626pt.
+ [16
+
+ <../figs/profit.png>] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
+
+]
+\tf@nav=\write6
+\openout6 = `Ch14_slides.nav'.
+
+\tf@toc=\write7
+\openout7 = `Ch14_slides.toc'.
+
+\tf@snm=\write8
+\openout8 = `Ch14_slides.snm'.
+
+ (./Ch14_slides.aux)
+Package rerunfilecheck Info: File `Ch14_slides.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 21946 strings out of 476024
+ 430029 string characters out of 5794016
+ 1862382 words of memory out of 5000000
+ 41892 multiletter control sequences out of 15000+600000
+ 520348 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,15n,122p,482b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Ch14_slides.pdf (22 pages, 207420 bytes).
+PDF statistics:
+ 669 PDF objects out of 1000 (max. 8388607)
+ 603 compressed objects within 7 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
